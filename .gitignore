@@ -1,0 +1,10 @@
+build/
+libtorch/
+*.o
+*.so
+eth_ucy_data/
+metrica_data/
+ns_work/
+ns_videos/
+*.log
+build_cmake.log
